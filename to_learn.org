@@ -1,0 +1,66 @@
+* Books
+  + [X] [[file:~/Downloads/book.pdf][A Gentle Introduction to Common Lisp]]
+  + [ ] [[https://gigamonkeys.com/book/][Pratical Common Lisp]]
+  + [ ] [[file:./paip.pdf][Paradigms of Artificial Intelligence Programming]]
+  + [ ] [[https://beautifulracket.com/][Beautiful Racket]]
+  + [ ] [[http://craftinginterpreters.com/][Crafting Interpreters]]
+  + [ ] [[https://cs.brown.edu/courses/cs173/2012/book/][Programming Languages: Application and Interpretation - PLAI]]
+  + [ ] [[https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours][Write Yourself A Scheme in 48 Hours]]
+  + [ ] Design of Data Intensive Applications 
+  + [ ] Getting Things Done
+  + [ ] The Pramatic Programmer
+  + [ ] [[https://shop.jcoglan.com/building-git/][Building Git]]
+  + [ ] [[https://gigamonkeys.com/book/][Practical Common Lisp]] 
+  + [ ] The Design of Everyday Things
+  + [ ] Don't Make Me Think
+  + [ ] [[https://compilerbook.com/][Writing A Compiler In Go]]
+  + [ ] [[https://interpreterbook.com/][Writing An Interpreter in Go]]
+  + [ ] Code by Charlse Petzold
+
+* Articles / Blog Posts
+  + [ ] [[https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html][You and Your Research - Richard Hamming]]
+ 
+* Videos
+  + [ ] [[https://www.youtube.com/watch?v=X1dz0xRbSJc][How to Build a Landing Page]]
+  + [ ] [[https://www.youtube.com/watch?v=C27RVio2rOs&t=2774s][Michael Seibel - Building Producnt]]
+
+    
+* Courses and Guides
+  + [ ] [[https://github.com/microsoft/Web-Dev-For-Beginners][Web Development for Beginners]]
+  + [ ] [[https://github.com/microsoft/Data-Science-For-Beginners][Data Science for Beginners]]
+  + [ ] [[https://github.com/microsoft/ML-For-Beginners][Machine Learning For Beginners]]
+  + [ ] [[https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/][How to Build Great Looking Websites as a dev]]
+  + [ ] [[https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap][The Complete Junior to Senior Web Development Roadmap]]
+    + [ ] Typescript
+    + [ ] Docker
+    + [ ] Redis
+    + [ ] Security
+    + [ ] AWS 
+
+      
+
+* Goals
+  + [ ] Improve web design and frontend web development
+  + [ ] Improve at building systems
+    + [ ] Learn to Use Redis
+    + [ ] Learn to deploy apps to the cloud
+    + [ ] Learn to use MySQL
+    + [ ] Learn to use a NoSQL database (probably MongoDB)
+    + [ ] Deploy an app to AWS (take it down quick so that it doesn't bleed money)
+    + [ ] Read Design of Data Intensive Applications
+    + [ ] Build an ecommerce app that uses Stripe for payments
+  + [ ] Learn Common Lisp
+    + [ ] Complete Practical Common Lisp
+    + [ ] Complete PAIP
+    + [ ] Build an interpreter in Common Lisp
+  + [ ] Learn Ruby
+    + [ ] Build an interpreter in Ruby
+
+
+* Resources
+  + [ ] [[https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/][A Road to Lisp]]
+  + [ ] [[https://developer.mozilla.org/en-US/][MDN Web Docs]]
+
+* Blog Articles
+  + [ ] [[https://typesense.org/blog/why-we-are-not-raising-funds/][To Raise VC or Not. Choosing The Road Less Travelled]]
+  + [ ] [[pketh.org/organic-software.html][In Search of Organic Software]]
