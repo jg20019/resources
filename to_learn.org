@@ -16,6 +16,12 @@
   + [ ] [[https://compilerbook.com/][Writing A Compiler In Go]]
   + [ ] [[https://interpreterbook.com/][Writing An Interpreter in Go]]
   + [ ] Code by Charlse Petzold
+  + [ ] [[https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][SICP]]
+  + [ ] Lisp in Small Pieces Christian Queinnec
+  + [ ] The Elements of Computing Systems by Nisan and Shocken
+  + [ ] [[https://pages.cs.wisc.edu/~remzi/OSTEP/][Operating Systems: Three Easy Pieces]]
+  + [ ] [[https://csapp.cs.cmu.edu/][Computer Systems: A Programmer's Perspective]]
+
 
 * Articles / Blog Posts
   + [ ] [[https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html][You and Your Research - Richard Hamming]]
