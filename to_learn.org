@@ -1,7 +1,7 @@
 * Books
-  + [X] [[file:~/Downloads/book.pdf][A Gentle Introduction to Common Lisp]]
-  + [ ] [[https://gigamonkeys.com/book/][Pratical Common Lisp]]
-  + [ ] [[file:./paip.pdf][Paradigms of Artificial Intelligence Programming]]
+  + [X] [[file:~/Desktop/books/gentle-introduction-common-lisp.pdf][A Gentle Introduction to Common Lisp]]
+  + [ ] [[https://gigamonkeys.com/book/][Practical Common Lisp]]
+  + [ ] [[file:~/Desktop/books/paip.pdf][Paradigms of Artificial Intelligence Programming]]
   + [ ] [[https://beautifulracket.com/][Beautiful Racket]]
   + [ ] [[http://craftinginterpreters.com/][Crafting Interpreters]]
   + [ ] [[https://cs.brown.edu/courses/cs173/2012/book/][Programming Languages: Application and Interpretation - PLAI]]
@@ -10,7 +10,6 @@
   + [ ] Getting Things Done
   + [ ] The Pramatic Programmer
   + [ ] [[https://shop.jcoglan.com/building-git/][Building Git]]
-  + [ ] [[https://gigamonkeys.com/book/][Practical Common Lisp]] 
   + [ ] The Design of Everyday Things
   + [ ] Don't Make Me Think
   + [ ] [[https://compilerbook.com/][Writing A Compiler In Go]]
@@ -21,10 +20,15 @@
   + [ ] The Elements of Computing Systems by Nisan and Shocken
   + [ ] [[https://pages.cs.wisc.edu/~remzi/OSTEP/][Operating Systems: Three Easy Pieces]]
   + [ ] [[https://csapp.cs.cmu.edu/][Computer Systems: A Programmer's Perspective]]
+  + [ ] [[https://cs3110.github.io/textbook/cover.html][OCaml Programming: Correct + Efficient + Beautiful]]
 
 
-* Articles / Blog Posts
+* Project Sites
+  + [ ] [[https://www.nand2tetris.org/][From Nand to Tetris]]
+
+* Talks 
   + [ ] [[https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html][You and Your Research - Richard Hamming]]
+
  
 * Videos
   + [ ] [[https://www.youtube.com/watch?v=X1dz0xRbSJc][How to Build a Landing Page]]
@@ -42,7 +46,6 @@
     + [ ] Redis
     + [ ] Security
     + [ ] AWS 
-
       
 
 * Goals
@@ -67,6 +70,33 @@
   + [ ] [[https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/][A Road to Lisp]]
   + [ ] [[https://developer.mozilla.org/en-US/][MDN Web Docs]]
 
-* Blog Articles
+* Blog Posts
   + [ ] [[https://typesense.org/blog/why-we-are-not-raising-funds/][To Raise VC or Not. Choosing The Road Less Travelled]]
   + [ ] [[pketh.org/organic-software.html][In Search of Organic Software]]
+  + [ ] [[https://danluu.com/][Dan Luu]]
+    + [ ] [[https://danluu.com/simple-architectures/][In defense of simple architectures]]
+    + [ ] [[https://danluu.com/learning-to-program/][How I learned to program]]
+    + [ ] [[https://danluu.com/programming-books/][Programming book list]]
+    + [ ] [[https://danluu.com/teach-debugging/][Why don't schools teach debugging]]
+    + [ ] [[https://danluu.com/productivity-velocity/][Some reasons to work on productivity and velocity]]
+  + [ ] [[https://apenwarr.ca/log/20201227][Systems design explains the world: volume 1]]
+  + [ ] [[https://tailscale.com/blog/modules-monoliths-and-microservices/][Modules, monoliths, and microservices]]
+  + [ ] [[https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UseAChecklist][Use a Checklist]]
+
+
+* Websites
+  + [ ] [[https://overthewire.org/wargames/][Wargames]]
+  + [ ] [[https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world][The Flask Mega Tutorial]]
+  + [ ] [[https://build-your-own-x.vercel.app/][Build Your Own X]]
+  + [ ] [[https://grugbrain.dev/][The Grug Brained Developer]]
+  + [ ] [[https://idlewords.com/talks/website_obesity.htm][The Website Obesity Crisis]]
+  + [ ] [[https://teachyourselfcs.com/][Teach Yourself CS]]
+
+
+
+* Databases
+  + [ ] Design of Data Intensive Applications
+  + [X] [[https://architecturenotes.co/things-you-should-know-about-databases/][Things You Should Know About Databases]]
+  + [ ] [[https://use-the-index-luke.com/sql/preface][Use The Index, Luke]]
+
+    
